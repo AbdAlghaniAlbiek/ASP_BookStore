@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStore.API", "BookStore.API\BookStore.API.csproj", "{C4C9F322-6BD9-4BA9-8CF8-49DDD8782D32}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B719EBD3-B81D-4126-849A-BB65CA61EBCB}"
+	ProjectSection(SolutionItems) = preProject
+		CONTROLLER.md = CONTROLLER.md
+		DEPENDENCY_INJECTION.md = DEPENDENCY_INJECTION.md
+		EF_CORE.md = EF_CORE.md
+		ROUTING.md = ROUTING.md
+		SWAGGER.md = SWAGGER.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4C9F322-6BD9-4BA9-8CF8-49DDD8782D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C9F322-6BD9-4BA9-8CF8-49DDD8782D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C9F322-6BD9-4BA9-8CF8-49DDD8782D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C9F322-6BD9-4BA9-8CF8-49DDD8782D32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C2E580F-6171-4DA6-A682-98DC649AA0A9}
+	EndGlobalSection
+EndGlobal
